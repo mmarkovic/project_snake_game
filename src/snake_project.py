@@ -11,8 +11,10 @@ import random
 SIZE = 40
 BACKGROUND_COLOR = 110, 110, 5
 
+chrüsi müsi
+
 # Klasse "Apfel"
-class Apple:
+class Apple: ++++++++++++++++++
 
     # Apfel importieren
     def __init__(self, parent_screen):
