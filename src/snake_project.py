@@ -5,6 +5,7 @@ import time
 import random
 
 # Konvertierung in OOP (Klassen und Objekten)
+# hallo
 
 # Variabeln kreieren für Blockgrösse und Hintergrundfarbe
 SIZE = 40
